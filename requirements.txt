@@ -1,4 +1,4 @@
-Django==1.8.17
+Django==1.11.29
 django-role-permissions==2.2.1
 datadog==0.37.1
 ddtrace==0.39.0
